@@ -20,7 +20,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     paddingTop: 50,
-    padding: 24,
+    paddingBottom: 24,
     backgroundColor: COLORS.black,
   },
 });
