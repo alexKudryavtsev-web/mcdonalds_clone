@@ -19,9 +19,7 @@ export default function Categories() {
           fontWeight: "bold",
         }}
       >
-        Hey,
-      </Text>
-      <Text style={styles.title}>What's up?</Text>
+        Hey, what's up?</Text>
 
       <View style={styles.categories}>
         {categories.map((category, index) => (
